@@ -12,6 +12,6 @@ print('multiplication: ', res)
 try:
     res = x / y
 except:
-    res = 'Cannot be devided by zero';
+    res = 'Cannot be devided by zero'
 
 print('division: ', res)
